@@ -1,4 +1,4 @@
-## Bash
+# Bash
 Bash stands for "Bourne Again SHell" and is a command processor that typically runs in a text window where the user types commands that cause actions.
 
 ## Why bash ?
