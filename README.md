@@ -36,3 +36,21 @@ Bash stands for "Bourne Again SHell" and is a command processor that typically r
 - To know which shell your system supports type: cat/etc/shells
 - To know where bash is located in your OS type : which bash
 
+
+## Basic Bash Commands
+1. cd:changes the directory to a different location
+2. ls:lists the contents of the current directory
+3. mkdir:create new directory
+4. touch:create a new file
+5. rm:remove a file or directory
+6. cp:copy a file or directory
+7. mv:move or rename a file or directory
+8. echo:print the text in the terminal
+9. cat:concatenate and print the contents of a file
+10. grep:search for a pattern in a file
+11. chmod:change the permissions of a file or directory
+12. sudo:run a command with admin privileges
+13. df:display the amount of disk space available
+14. history:show the list of previous commands
+15. ps:display information about running processes 
+
