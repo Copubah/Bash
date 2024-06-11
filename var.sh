@@ -17,3 +17,6 @@ echo $BASH
 echo $BASH_VERSION
 echo $HOME
 echo $PWD
+## User-defined var are created and maintained by the user
+name=Charles
+echo The name is $name
